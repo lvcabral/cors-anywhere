@@ -1,7 +1,7 @@
 # CORS Anywhere
 
-[![NPM Version](https://img.shields.io/npm/v/%40lvcabral%2Fterminal?logo=npm)](https://www.npmjs.com/package/@lvcabral/terminal)
-[![GitHub](https://img.shields.io/github/license/lvcabral/terminal?logo=github)](./LICENSE)
+[![NPM Version](https://img.shields.io/npm/v/%40lvcabral%2Fcors-anywhere?logo=npm)](https://www.npmjs.com/package/@lvcabral/cors-anywhere)
+[![GitHub](https://img.shields.io/github/license/lvcabral/cors-anywhere?logo=github)](./LICENSE)
 
 **CORS Anywhere** is a NodeJS proxy which adds CORS headers to the proxied request.
 
