@@ -29,9 +29,9 @@
     "demo.html",
     "server.js"
   ],
-	"publishConfig": {
-		"access": "public"
-	},
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "http-proxy": "^1.18.1",
     "proxy-from-env": "0.0.1"
